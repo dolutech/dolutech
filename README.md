@@ -67,9 +67,9 @@ No **GitHub do Dolutech**, disponibilizamos ferramentas para profissionais de TI
 
 [Lucas Catão de Moraes](https://cataodemoraes.com/) é especialista em **cibersegurança** com mais de **14 anos de experiência**.
 
-🎓 **Pós-graduado** em **Ciência de Dados e Big Data Analytics**
+🎓 **Pós-graduado** em **Ciência de Dados e Big Data Analytics** & **Privacidade de Dados**
 🎓 **MBA** em **Segurança da Informação**
-💼 Ativo na comunidade tech, sempre compartilhando conhecimento.
+💼 Ativo na comunidade tech, escritor, sempre compartilhando conhecimento.
 
 ---
 
