@@ -35,7 +35,7 @@ No GitHub do Dolutech, disponibilizamos uma variedade de ferramentas e scripts v
 
 ## Nosso Fundador
 
-![Lucas Catão de Moraes](https://cataodemoraes.com/wp-content/uploads/2025/03/lucas-catao-de-moraes.jpg)
+![Lucas Catão de Moraes](https://cataodemoraes.com/wp-content/uploads/elementor/thumbs/LUCAS-PERFIL-qj2gp8gyklrudnggsq04ut92xksqonywgptydxr06w.jpeg)
 
 [Lucas Catão de Moraes](https://cataodemoraes.com/) é um especialista em cibersegurança com mais de 14 anos de experiência na área de tecnologia. Pós-graduado em Ciência de Dados e Big Data Analytics, e com MBA em Segurança da Informação, Lucas é um entusiasta dedicado a compartilhar conhecimento e promover a segurança no mundo digital.
 
