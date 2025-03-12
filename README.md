@@ -1,7 +1,3 @@
-# Dolutech
-
-![Dolutech Banner](https://dolutech.com/wp-content/uploads/2023/02/dolutech-new-logo.png)
-
 ## Sobre Nós
 
 Bem-vindo ao **Dolutech**, um blog dedicado à tecnologia e cibersegurança, fundado por [Lucas Catão de Moraes](https://cataodemoraes.com/). Nossa missão é manter você informado sobre as últimas novidades do mundo digital, oferecendo conteúdos de qualidade que englobam notícias, tutoriais e análises aprofundadas.
